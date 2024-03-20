@@ -2,7 +2,7 @@
     width: 607px;
     padding: 20px;
     margin: auto;
-    margin-top: 75px;
+    margin-top: 21vh;
     border-radius: 75px;
     background-image: linear-gradient(180deg,#130754 0%, #3b2f80 100%);
 }
@@ -38,8 +38,8 @@
 }
 
 .weather-image{
-    width: 70px;
-    height: 70px;
+    width: 75px;
+    height: 112px;
     display: flex;
     justify-content: center;
 }
